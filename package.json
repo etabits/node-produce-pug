@@ -1,0 +1,28 @@
+{
+  "name": "produce-pug",
+  "version": "0.1.0",
+  "description": "Pug template engine rule for produce",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etabits/node-produce-pug.git"
+  },
+  "keywords": [
+    "produce",
+    "pug",
+    "jade",
+    "transformer",
+    "produce-transformer",
+    "produce-plugin",
+    "produce-rule"
+  ],
+  "author": "Hasan Arous <arous.hasan@gmail.com> (http://www.etabits.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etabits/node-produce-pug/issues"
+  },
+  "homepage": "https://github.com/etabits/node-produce-pug#readme",
+  "dependencies": {
+    "pug": "^2.0.0-beta11"
+  }
+}
